@@ -1,0 +1,10 @@
+hybrid_quantum_titanic_capstone/
+├── titanic.csv
+├── hybrid_quantum_titanic.py
+├── requirements.txt
+├── README.md
+├── CAPSTONE_REPORT.md
+└── (generated after execution)
+    ├── model_comparison.csv
+    ├── model_comparison.png
+    └── classical_confusion_matrix.png
